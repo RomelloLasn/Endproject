@@ -1,2 +1,2 @@
 # Endproject
-Minu plaan on teha trustpiloti sarnane app, kus siis saab anda ratinguid erinevate teenuste, toodete, äppide, mängude, jne kohta,  ees
+Minu plaan on teha trustpiloti sarnane app, kus siis saab anda ratinguid erinevate teenuste, toodete, äppide, mängude, jne kohta, eesmärk on üles ehitada usaldusväärne leht kus kui inimesed näiteks tahavad mingilt veebilehelt mingit teenust, subscription jne osta, siis saavad nad mu lehepealt kontrollida ja lugeda teiste inimeste kogemust selle sama veebilehega ja , et kui usaldusväärne see leht on
