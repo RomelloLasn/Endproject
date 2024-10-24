@@ -1,9 +1,19 @@
-# Endproject
+Project Overview
+Initial Idea:
+The initial plan was to develop an application similar to Trustpilot, where users can rate various services, products, apps, games, and more. The goal was to create a reliable platform where users could verify the trustworthiness of websites before purchasing services or subscriptions. By reading the experiences of others, they would be able to make informed decisions about the reliability of a service provider or product.
 
-# algne
-Minu plaan on teha trustpiloti sarnane app, kus siis saab anda ratinguid erinevate teenuste, toodete, äppide, mängude, jne kohta, eesmärk on üles ehitada usaldusväärne leht kus kui inimesed näiteks tahavad mingilt veebilehelt mingit teenust, subscription jne osta, siis saavad nad mu lehepealt kontrollida ja lugeda teiste inimeste kogemust selle sama veebilehega ja , et kui usaldusväärne see leht 
+Current Project:
+Currently, I am working on building a website for a roofing company in collaboration with a family friend. The website will be developed using Laravel, Tailwind CSS, React, and JavaScript. Although the final design is yet to be determined, the plan includes several essential features:
 
-# praegune 
-Mina hakkan  üles ehitama katusefirma veebilehte isasõbrale, praegu on plaan veebileht ülesehitada laraveli, tailwindi ja reacti ja javascriptiga, praegu ei ole me veel kokku leppinud, et milline peab leht välja nägema aga, plaanis oleks mul teha avaleht, firmast mingi info,  kontakt leht , võibolla mingi galerii või leht tema firma tehtud töödest, mingi leht mis ütleb missuguseid teenuseid nad pakuvad, plaanis oleks ka teha lehele kalkulaator, millega saab välja arvutada katuse hinna maksuvuse, vahet pole siis kas kelpkatus, viilkatus, pultkatus jne
-Kui ma haapsallu praktikale lähen, siis saan ka isasõbraga kokku kus me saame siis täpsemad veebilehe detailid läbi rääkida
-Tahan lõputööga alustada kuskil Jaanuari paigus, siis annab see mulle rohkem aega leheehitust läbi mõelda ja vajalikke parandusi tulevikus teha, mul läheb kindlast rohkem aega kui 160h kõige planeerimisega ja olen sellega arvestanud, ma arvan, et minu raskuseks osutub veebilehe alustamine, aga kui olen hea alguse kätte saanud, siis on mul lihtsam lehe ehitamist jätkata, kindlasti otsin ka inspiratsiooni teistest katusefirmade lehtedelt.
+Homepage: An overview of the company.
+About Page: Information about the roofing company.
+Contact Page: A page for visitors to get in touch with the company.
+Gallery/Portfolio Page: Showcasing the completed projects of the company.
+Services Page: Detailing the different services provided, such as various types of roofing (e.g., gable roof, hip roof, flat roof, etc.).
+Roof Cost Calculator: A custom calculator that allows users to estimate the cost of different types of roofing projects.
+Timeline & Planning:
+I plan to meet with the roofing company owner when I go for practical work in Haapsalu to finalize the details of the website.
+I aim to start my final project around January, which will give me ample time to carefully plan the website’s structure and make necessary improvements.
+I expect that building this site will take more time than the allotted 160 hours, as I will be dedicating significant time to the planning phase.
+I anticipate that the initial setup of the website may be challenging, but once the foundation is laid, continuing development will be smoother.
+I will also seek inspiration from other roofing company websites to ensure the final product is both functional and visually appealing.
